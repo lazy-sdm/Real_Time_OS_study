@@ -1,5 +1,5 @@
 # Real_Time_OS_study
-honey_orange
+honey_orange :D
 
 Based on rtems run by docker. (gr712rc-qual-only)
 
